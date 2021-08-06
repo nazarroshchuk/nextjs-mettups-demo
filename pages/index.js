@@ -6,7 +6,7 @@ import { Fragment } from "react";
 
 
 function HomePage(props) {
-    console.log(props)
+
     return (
             <Fragment>
                 <Head>
